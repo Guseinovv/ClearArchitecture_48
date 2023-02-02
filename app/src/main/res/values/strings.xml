@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ClearArchitecture_48</string>
+    <string name="write">write</string>
+    <string name="remove">remove</string>
+    <string name="todo">todo</string>
 </resources>
